@@ -1,6 +1,6 @@
 # Hi there! I'm Surya Teja Bugatha 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=SuryaTejaBugatha&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=suryateja20031104&label=Profile%20Views&color=0e75b6&style=flat)
 
 🚀 **Software Engineer | Full Stack Developer | AI/ML Enthusiast**
 
@@ -14,7 +14,7 @@
 - 🏆 **Hackathon Finalist** | 2nd place in internal hackathon | **Smart India Hackathon 2024** - Team **DeFi Detectives**
 - 🏢 **Internships:**  
   - Blockchain Developer at **Praying Mantis**
-  - Amazon **ML School Attendee**
+  - Machine Learning at **Amazon**
 - 📌 **Currently exploring**: Hand Gesture Recognition using **Computer Vision & Deep Learning**
 - 🌱 **Learning:** Advanced Full Stack Development at **NxtWave**
 
@@ -33,25 +33,25 @@
 
 ## 💻 Projects
 
-### 🔹 [Hand Gesture Translator with Eye-Blink Confirmation](https://github.com/your-repo)
+### 🔹 [Hand Gesture Translator with Eye-Blink Confirmation](https://github.com/suryateja20031104/SIGN_LANGUAGE_WITH_SENTENCE_CONSTRUCTION.git)
 > **Technologies:** MediaPipe, OpenCV, TensorFlow, React.js  
-> - Real-time **sign language recognition** and **sentence construction** using **eye blinks**
+> - Real-time **sign language recognition** and **sentence construction** using **conformation sign**
 > - Supports **multilingual speech translation**  
 
-### 🔹 [DeFi Crypto Tracker (SIH 2024)](https://github.com/your-repo)
+### 🔹 [DeFi Crypto Tracker (SIH 2024)](https://github.com/suryateja20031104/Cryptoflow.git)
 > **Technologies:** Neo4j, Node.js, React.js, API integrations  
 > - Detects **suspicious crypto transactions** related to **drug trafficking**
 > - **Graph-based visualization** of wallets and transactions
 
-### 🔹 [YouTube Clone](https://github.com/your-repo)
+### 🔹 [YouTube Clone](https://github.com/suryateja20031104/Youtube-Clone.git)
 > **Technologies:** React.js, Node.js, REST API  
 > - **Full-fledged** video streaming app with **user authentication**
 
-### 🔹 [E-Commerce Platform](https://github.com/your-repo)
+### 🔹 [E-Commerce Platform](https://github.com/suryateja20031104/NXT-Trendz.git)
 > **Technologies:** React.js, Node.js, MongoDB, JWT  
 > - **User authentication**, **product catalog**, and **cart management**
 
-### 🔹 [IPL Dashboard](https://github.com/your-repo)
+### 🔹 [IPL Dashboard](https://github.com/suryateja20031104/IPL-dashboard.git)
 > **Technologies:** React.js, REST API  
 > - Displays **team stats** and **match insights** dynamically
 
@@ -59,9 +59,9 @@
 
 ## 📈 GitHub Stats
 
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaTejaBugatha&show_icons=true&theme=tokyonight)
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryateja20031104&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaTejaBugatha&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryateja20031104&layout=compact&theme=tokyonight)
 
 ---
 
