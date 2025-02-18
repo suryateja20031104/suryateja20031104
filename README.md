@@ -1,23 +1,75 @@
-### 👋 Hi there, I'm Surya Teja!
+# Hi there! I'm Surya Teja Bugatha 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=SuryaTejaBugatha&label=Profile%20Views&color=0e75b6&style=flat)
+
+🚀 **Software Engineer | Full Stack Developer | AI/ML Enthusiast**
 
 ---
 
-![](https://komarev.com/ghpvc/?username=suryateja20031104&color=fb4362)
+## 🏆 About Me
 
-<h3>When I code, I rely on</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
+- 🎓 B.Tech in CSE (AI & ML) | **CGPA: 9.35**
+- 💻 Passionate about **AI/ML, Full Stack Development, and Blockchain Security**
+- 🏅 **Top Coder** | Solved **350+ coding questions** | Secured **top positions** in coding contests
+- 🏆 **Hackathon Finalist** | 2nd place in internal hackathon | **Smart India Hackathon 2024** - Team **DeFi Detectives**
+- 🏢 **Internships:**  
+  - Blockchain Developer at **Praying Mantis**
+  - Amazon **ML School Attendee**
+- 📌 **Currently exploring**: Hand Gesture Recognition using **Computer Vision & Deep Learning**
+- 🌱 **Learning:** Advanced Full Stack Development at **NxtWave**
 
-<h3>My GitHub contributions summary</h3>
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suryateja20031104&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+## 🔥 Technical Skills
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryateja20031104&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+**Languages:** C++, Python, JavaScript, SQL  
+**Frontend:** React.js, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**AI/ML:** TensorFlow, Keras, OpenCV, MobileNet  
+**Blockchain:** Smart Contracts, Neo4j (for Crypto Transaction Analysis)  
+
+---
+
+## 💻 Projects
+
+### 🔹 [Hand Gesture Translator with Eye-Blink Confirmation](https://github.com/your-repo)
+> **Technologies:** MediaPipe, OpenCV, TensorFlow, React.js  
+> - Real-time **sign language recognition** and **sentence construction** using **eye blinks**
+> - Supports **multilingual speech translation**  
+
+### 🔹 [DeFi Crypto Tracker (SIH 2024)](https://github.com/your-repo)
+> **Technologies:** Neo4j, Node.js, React.js, API integrations  
+> - Detects **suspicious crypto transactions** related to **drug trafficking**
+> - **Graph-based visualization** of wallets and transactions
+
+### 🔹 [YouTube Clone](https://github.com/your-repo)
+> **Technologies:** React.js, Node.js, REST API  
+> - **Full-fledged** video streaming app with **user authentication**
+
+### 🔹 [E-Commerce Platform](https://github.com/your-repo)
+> **Technologies:** React.js, Node.js, MongoDB, JWT  
+> - **User authentication**, **product catalog**, and **cart management**
+
+### 🔹 [IPL Dashboard](https://github.com/your-repo)
+> **Technologies:** React.js, REST API  
+> - Displays **team stats** and **match insights** dynamically
+
+---
+
+## 📈 GitHub Stats
+
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaTejaBugatha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaTejaBugatha&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-teja-bugatha)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryateja20031104)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://bstportfolio.ccbp.tech/)  
+
+📧 **Email:** suryateja1938102074@example.com  
+⚡ **Fun Fact:** I love solving complex problems and exploring AI-driven solutions! 😃
