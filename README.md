@@ -23,7 +23,7 @@
 ## Publications 📄
 
 ### Empowering Non-Verbal Communication: Sign Recognition To Multilingual Text And Audio
-- **Authors:** Venkata Satya Santhi S, Bugatha Surya Teja, Kesamsetty Bhavya Sri, Kaicharla Lalith Kumar, Indugubilli Hitha Varshith
+- **Authors:** Bugatha Surya Teja, Venkata Satya Santhi S, Kesamsetty Bhavya Sri, Kaicharla Lalith Kumar, Indugubilli Hitha Varshith
 - **Journal:** [CANA, Vol. 32 No. 9s (2025)](https://doi.org/10.52783/cana.v32.4671)
 - **Keywords:** Hand Gesture Recognition, Computer Vision, Artificial Neural Networks, Multilingual Translation
 - **Abstract:** This research introduces an advanced model for real-time hand gesture recognition using Artificial Neural Networks and Computer Vision. The model improves accuracy in diverse environments, translates gestures into multilingual text and speech, and achieves a recognition accuracy of 98.51%.
