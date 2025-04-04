@@ -26,8 +26,7 @@
 - **Authors:** Bugatha Surya Teja, Venkata Satya Santhi S, Kesamsetty Bhavya Sri, Kaicharla Lalith Kumar, Indugubilli Hitha Varshith
 - **Journal:** [CANA, Vol. 32 No. 9s (2025)](https://doi.org/10.52783/cana.v32.4671)
 - **Keywords:** Hand Gesture Recognition, Computer Vision, Artificial Neural Networks, Multilingual Translation
-- **Abstract:** This research introduces an advanced model for real-time hand gesture recognition using Artificial Neural Networks and Computer Vision. The model improves accuracy in diverse environments, translates gestures into multilingual text and speech, and achieves a recognition accuracy of 98.51%.
-
+- **Abstract:** Artificial Neural Networks and Computer Vision have significantly been used to detect hand gestures and facial expressions allowing devices to analyse and recognise images, in turn enhancing the experience of interaction between humans and machines. Existing research in this area primarily focuses on interpreting hand gestures and mapping them to the corresponding alphabets or symbols. In this paper we focus on taking this research forward by introducing an enhancement to the existing model. The proposed model mainly concentrates on improving gesture recognition accuracy in diverse background environments like supporting multiple languages, allowing gestures to be translated into text or speech in different languages. It will utilize a webcam to detect the hand gestures in real time, constructing words based on the recognized gestures and generating sentences. Additionally, the proposed model translates the constructed sentences into a language of one's choice and also allows the text to be converted to audio, providing an audio output. This increases the system's flexibility and facilitates the hard of hearing in a diverse environments and languages. Furthermore, the model showcases its efficiency and novelty by achieving an accuracy of 98.51%.
 
 ---
 
